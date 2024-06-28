@@ -4,6 +4,8 @@
 
 ## Live link
 
+* https://sgswamin.github.io/trivia-game/
+
 ### Special Thanks
 
 * mimo.org for providing the fun and stumilating game idea.
